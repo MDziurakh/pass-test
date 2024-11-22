@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pass-test/static/css/main.c4b4d046.css",
+    "main.js": "/pass-test/static/js/main.4f57018b.js",
+    "index.html": "/pass-test/index.html",
+    "main.c4b4d046.css.map": "/pass-test/static/css/main.c4b4d046.css.map",
+    "main.4f57018b.js.map": "/pass-test/static/js/main.4f57018b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4b4d046.css",
+    "static/js/main.4f57018b.js"
+  ]
+}
